@@ -57,7 +57,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "கற்றது கைமண் அளவு, கல்லாதது உலகளவு"
 
 me-img: "/img/jetpacktocat.png"
 
